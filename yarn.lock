@@ -950,6 +950,9 @@
 "@modules/articles@file:./modules/articles":
   version "1.0.0"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/camera@file:./modules/camera":
   version "1.0.1"
   dependencies:
@@ -968,9 +971,6 @@
     react-native-render-html "^5.1.0"
 
 "@modules/push-notifications@file:./modules/push-notifications":
-  version "1.0.0"
-
-"@modules/push-notifications@file:./modules/push-notifications/":
   version "1.0.0"
 
 "@modules/splash@file:./modules/splash":
